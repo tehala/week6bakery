@@ -14,7 +14,7 @@ body{
 
 .header{
     height: 95vh;
-    background-image:  linear-gradient(to bottom right,rgba(255, 255, 255, 0.171) , rgba(0, 0, 0, 0.466)), url(../imag1.jpg);
+    background-image:  linear-gradient(to bottom right,rgba(255, 255, 255, 0.171) , rgba(0, 0, 0, 0.466)), url(../img/cake1.jpg);
     background-position: center;
     background-size: cover;
     
